@@ -1,0 +1,9 @@
+{
+  "name": "gympoint-app",
+  "version": "1.0.0",
+  "description": "App gerenciador de academia, Genypoint",
+  "main": "index.js",
+  "repository": "https://github.com/piqueno43/gympoint-api",
+  "author": "Edivaldo Silva",
+  "license": "MIT"
+}
